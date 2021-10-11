@@ -1,0 +1,27 @@
+{
+  "name": "node-tut",
+  "version": "1.0.0",
+  "description": "My first Node.js package",
+  "main": "./js/index.js",
+  "scripts": {
+    "start": "node ./js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KostiantynO/node-tut.git"
+  },
+  "keywords": [
+    "node.js",
+    "first-repo",
+    "node-tut"
+  ],
+  "author": "Kostiantyn Ochenash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KostiantynO/node-tut/issues"
+  },
+  "homepage": "https://github.com/KostiantynO/node-tut#readme",
+  "dependencies": {
+    "validator": "^13.6.0"
+  }
+}
